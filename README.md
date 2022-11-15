@@ -1,7 +1,5 @@
-# vbs-exe
-Runs a VBS script from an exe file. My first C++ project.
+# How to use
+Create a vbs file called "vbsFile" and put whatever code you want in there.
+Run vbs_to_exe and type what you want your exe file to be called.
+If there are any issues make sure you have "vbsFile.vbs", "vbs_to_exe.py" and "cppScript.cpp" all in the same directory.
 
-## How to use
-Run vbs converter after creating a vbs file and putting it in the correct folder. 
-Copy the that code into the cpp file.
-Compile with "g++ filename.cpp -o filename -static-libgcc -static-libstdc++".
