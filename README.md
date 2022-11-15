@@ -4,4 +4,4 @@ Run vbs_to_exe and type what you want your exe file to be called.
 Make sure you have "vbsFile.vbs", "vbs_to_exe.py" and "cppScript.cpp" all in the same directory.
 
 ## Requirements
-Requires GNU C++ and Python 3.6 or further.
+Requires g++ compiler and Python 3.6 or further.
