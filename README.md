@@ -1,7 +1,7 @@
 # How to use
-Create a file called "vbsFile.vbs" and put whatever code you want in there.
+Create a file called "vbsFile.vbs" in Config and put whatever script you want there.
 Run vbs_to_exe and type what you want your exe file to be called.
-Make sure you have "vbsFile.vbs", "vbs_to_exe.py" and "cppScript.cpp" all in the same directory.
+Don't delete any files found in Config.
 
 ## Requirements
 Requires g++ compiler and Python 3.6 or further.
